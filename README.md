@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wharkly47
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning coding
+- 🌱 I’m a software developer and creator
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
 
